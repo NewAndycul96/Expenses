@@ -8,7 +8,7 @@
 
 import UIKit
 
-struct expense {
+struct Expense {
     var title: String
     var amount: Double
     var date: Date

@@ -13,6 +13,7 @@
 		16C54407212F46BC00518063 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16C54405212F46BC00518063 /* LaunchScreen.storyboard */; };
 		16C5440F212F46E500518063 /* ExpensesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C5440E212F46E500518063 /* ExpensesViewController.swift */; };
 		16C54411212F471000518063 /* expenseStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C54410212F471000518063 /* expenseStruct.swift */; };
+		16C544132130C56100518063 /* ExpensesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16C544122130C56100518063 /* ExpensesTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		16C54408212F46BC00518063 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16C5440E212F46E500518063 /* ExpensesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesViewController.swift; sourceTree = "<group>"; };
 		16C54410212F471000518063 /* expenseStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = expenseStruct.swift; sourceTree = "<group>"; };
+		16C544122130C56100518063 /* ExpensesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				16C54400212F46BB00518063 /* Main.storyboard */,
 				16C5440E212F46E500518063 /* ExpensesViewController.swift */,
 				16C54410212F471000518063 /* expenseStruct.swift */,
+				16C544122130C56100518063 /* ExpensesTableViewCell.swift */,
 				16C54403212F46BC00518063 /* Assets.xcassets */,
 				16C54405212F46BC00518063 /* LaunchScreen.storyboard */,
 				16C54408212F46BC00518063 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16C544132130C56100518063 /* ExpensesTableViewCell.swift in Sources */,
 				16C543FD212F46BB00518063 /* AppDelegate.swift in Sources */,
 				16C54411212F471000518063 /* expenseStruct.swift in Sources */,
 				16C5440F212F46E500518063 /* ExpensesViewController.swift in Sources */,
